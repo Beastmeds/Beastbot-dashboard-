@@ -1,1 +1,1 @@
-# Beastbot-dashboard-
+Backend (Express). Run `npm install` and `npm run dev`.
